@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WhiteHatM
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning OOP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me mmanodeep@gmail.com
 
 <!---
